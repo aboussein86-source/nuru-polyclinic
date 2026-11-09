@@ -88,7 +88,7 @@ const departments = {
     title: 'Gari la Wagonjwa (Ambulance)',
     description: 'Gari la wagonjwa hutumika kusaidia usafirishaji wa wagonjwa wanaohitaji kufikishwa kwenye kituo cha afya au kuhamishiwa kwenye kituo kingine kwa sababu za kitabibu.',
     about: 'Huduma hii inalenga kusaidia wagonjwa kupata huduma za matibabu kwa wakati kuptitia usafiri wa gari la wagonjwa. Wasiliana na Nuru Polyclinic kuthibitisha kama gari linapatikana, eneo linalohudumiwa na utaratibu wa kuomba huduma. Katika dharura, tafuta msaada wa huduma rasmi za dharura mara moja.',
-    services: ['Usafirishaji wa wagonjwa kwenda hospitalini', 'Uhamishaji wa wagonjwa kutoka kituo kimoja cha afya kwenda kingine ', 'Kusaidia usafiri wa wagonjwa wanaohitaji uangalizi malumu wakati wa safari,kulingana na uwezo wa gari na wahudumu '],
+    services: ['Usafirishaji wa wagonjwa kwenda hospitalini', 'Uhamishaji wa wagonjwa kutoka kituo kimoja cha afya kwenda kingine ', 'Kusaidia usafiri wa wagonjwa wenye kuhitaji uangalizi malumu wakati wa safari,kulingana na uwezo wa gari na wahudumu '],
     image: 'images/ambulance.jpg?auto=format&fit=crop&w=1200&q=85',
     caption: 'Gari la wagonjwa na usafirishaji wa wagonjwa'
   }
