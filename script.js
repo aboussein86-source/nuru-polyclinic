@@ -25,7 +25,7 @@ const departments = {
     description: 'Mapokezi hupokea wagonjwa,huandikisha wagonjwa wapya hupokea malipo yote ya huduma za kiafya kwa wagonjwa wote wa cash.',
     about: 'Mtu wa mapokezi ndo anahusika na uandikishaji na kupokea wagonjwa ,hivyo unaombwa kupita mapokezi mara papo utapohudhuria kwenye kliniki. pia mapokezi ataomba taarifa zako, hvyo unaombwa kumpa ushirikiano.',
     services: ['kupokea wagonjwa,kuandikisha wagonjwa wapya,kupokea malipo yote ya huduma za kiafya'],
-    image: 'images/rec.jpg',
+    image: 'images/reception.jpeg',
     caption: 'Huduma za mapokezi'
   },
   laboratory: {
