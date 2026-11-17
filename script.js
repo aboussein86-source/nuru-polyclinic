@@ -49,7 +49,7 @@ const departments = {
     description: 'Kliniki ya Mama na Mtoto inalenga kusaidia afya ya wanawake, wajawazito na watoto kupitia ushauri, uchunguzi na ufuatiliaji wa afya.',
     about: 'Huduma zinazohusiana na ujauzito na afya ya mama na mtoto ni muhimu katika kutambua mapema changamoto za kiafya. Wasiliana na kliniki kuthibitisha huduma zinazotolewa na ratiba zake.',
     services: ['Taarifa kuhusu huduma za afya ya mama na mtoto', 'Ushauri na ufuatiliaji wa afya wakati wa ujauzito kulingana na upatikanaji', 'Taarifa za miadi na kliniki za ufuatiliaji'],
-    image: 'images/clinic.jpeg?auto=format&fit=crop&w=1200&q=85',
+    images: 'images/clinic.jpeg?auto=format&fit=crop&w=1200&q=85',
     caption: 'Huduma za afya ya mama na mtoto'
   },
   ultrasound: {
